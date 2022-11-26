@@ -1,9 +1,10 @@
 
 ###### README.md
 <div align="center">
-<img src="./src/assets/images/logo.svg" alt="Logo"/></br>
+<img src="./src/assets/icone.png" alt="Logo"/></br>
 </div>
-<h1 align="center" style="font-weight:bold; color:#61DBFB">Hook de Carrinho de Compras</h1>
+
+<h1 align="center" style="font-weight:bold; color:#61DBFB"></h1>
 
 <h3 align="center">
   <a  href="#sobre">Sobre</a> |
@@ -13,7 +14,8 @@
 </h3>
 
 # Sobre
-<h4 style="font-size:22px">Desenvolvir essa aplicação de todo-list onde é possivél adcionar e remover tarefas e todas essas alterações ficam salvas no Local Storage. O legal de trabalhar essa aplicação foi poder configurar do zero o webpack e o babel. Além de colocar em prática o uso das tecnologias destacadas abaixo.</h4> 
+<h4 style="font-size:22px">Desenvolvir essa aplicação de todo-list onde é possivél adicionar e remover tarefas e todas essas alterações ficam salvas no Local Storage. O legal de trabalhar essa aplicação foi poder configurar do zero o webpack e o babel. Além de colocar em prática o uso das tecnologias destacadas abaixo.</h4> 
+
 <h4> Funcionalidades aplicadas:</h4> 
 <p>- Adicionar uma nova tarefa;</P>
 <p>- Remover tarefa da lista;</P>
@@ -43,7 +45,7 @@ https://user-images.githubusercontent.com/28486438/204108059-f4e8970d-e4da-4498-
 # Como-execultar
 ```bash
 # Clone este repositório
-https://github.com/vanessanascoliv/todo-list-js-localStorage.git
+https://github.com/vanessanascoliv/todo-list-js-localstorage.git
 
 # Acesse a pasta do projeto no terminal/cmd
 todo-list-js-localStorage
